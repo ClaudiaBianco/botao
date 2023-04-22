@@ -1,0 +1,15 @@
+.botao {background-color: lightblue;
+    display: inline-block;
+    padding: 5px 8px;
+    border-radius: 3px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 500;
+    box-shadow: 3px 3px 3px gray;
+    border: 2px solid lightblue}
+
+.botao:hover{
+    background-color: white;
+    color: blue;
+    cursor: pointer;
+}
